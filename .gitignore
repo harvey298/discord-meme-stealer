@@ -1,0 +1,21 @@
+/target
+
+# Files used by the program
+
+SECRETS
+
+hashes.txt
+processing/
+memes/
+unknown/
+dupes/
+
+*.mp4
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.unknown
+*.webm
+
+Cargo.lock
